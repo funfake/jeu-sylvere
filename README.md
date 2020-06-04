@@ -15,3 +15,21 @@
 - `<a href="">titre du lien</a>`: représente un lien, il peut être placé à l'intérieur d'un paragraphe ou même d'un titre
 
 -> Attention au `/` fermant les balises
+
+### Structure du site
+- Accueil (index.html)
+- Lancer le jeu
+  - Question 1
+    - Question 2-1
+      - Question 3-1
+        - ...
+      - Question 3-2
+        - ...
+    - Question 2-3
+      - Question 3-3
+        - ...
+      - Question 3-4
+        - ...
+- Final
+  - Win
+  - Loose
